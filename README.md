@@ -1,4 +1,4 @@
-# EigenComputing
+# Eigenvalues computings
 SVD problem solving and eigenvalue calculation using the Jacobi method.
 
 Two Jacobi methods were implemented in the Julia programming language to obtain eigenvalues and eigenvectors of symmetric matrices. One is called -Jacobi Classic-, and the other is called -Cyclic by row-. One is called  and the other is called. An examples are shown below,
